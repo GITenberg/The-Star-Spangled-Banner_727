@@ -1,0 +1,23 @@
+_repo: The-Star-Spangled-Banner_727
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carpenter, John A.
+    gutenberg_agent_id: '373'
+    url: http://www.gutenberg.org/2009/agents/373
+description: From The Century, July 1894
+gutenberg_issued: '1996-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National songs -- United States'
+- !lcsh 'Star-spangled banner (Song)'
+- !lcc 'E151'
+- GITenberg
+title: The Star-Spangled Banner
+url: http://www.gutenberg.org/ebooks/727
