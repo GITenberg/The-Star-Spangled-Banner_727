@@ -1,11 +1,16 @@
 _repo: The-Star-Spangled-Banner_727
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carpenter, John A.
     gutenberg_agent_id: '373'
     url: http://www.gutenberg.org/2009/agents/373
 description: From The Century, July 1894
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/727#The-Star-Spangled-Banner
 gutenberg_issued: '1996-11-01'
 gutenberg_type: Text
 identifiers:
